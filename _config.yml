@@ -1,0 +1,18 @@
+title: "Xinyuan Lyu's Personal Website"
+description: "欢迎来到我的个人主页！"
+theme: minima
+baseurl: ""
+url: "https://<你的用户名>.github.io"
+
+author:
+  name: "Xinyuan Lyu"
+  email: "xinyuanlyu@example.com"
+  github: "https://github.com/xinyuanlyu"
+
+# 配置导航栏显示的页面
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+  - portfolio.md
+  - contact.md
