@@ -9,7 +9,6 @@ author:
   email: "xinyuanlyu@example.com"
   github: "https://github.com/xinyuanlyu"
 
-# 配置导航栏显示的页面
 header_pages:
   - index.md
   - research.md
