@@ -5,8 +5,7 @@ permalink: /
 ---
 
 <div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 20px;">Hello! I am Xinyuan Lyu.</h1>
-  <h1>你好！我是吕欣远。</h1>
+  <h1 style="margin-right: 20px;">Hello! I am Xinyuan Lyu (吕欣远).</h1>
   <img src="ecda02feb523985a9bda4597dec7f61.jpg" alt="Xinyuan Lyu" width="150" style="border-radius: 50%;"/>
 </div>
 
