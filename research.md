@@ -7,9 +7,23 @@ permalink: /research/
 # Research & Projects
 
 ## Economics
-- **Exploring the Factors Behind Healthcare Resource Utilization**  
-  *Abstract:* This research investigates the disparities in healthcare resource utilization and the factors contributing to these variations.  
-  [Read more](https://xinyuanlyu.github.io/Healthcare-Resource-Utilization.pdf)
+- **Health and Cognitive Consequences of Widowhood in Middle-aged and Elderly in China**  
+  *Abstract:* This research utilizes China Health and Retirement Longitudinal Study (CHARLS) data
+employing event study methodology to investigate the effects of widowhood on mortality
+risk, health, and cognitive function among middle-aged and elderly individuals in China. I
+did not find significant effects of widowhood on mortality risk. However, my results
+indicate a minor impact on physical health, primarily reflected in an increased probability of
+chronic diseases. Notably, there is a significant rise in the risk of depression and cognitive
+impairment, adversely affecting Instrumental Activities of Daily Living (IADL) capabilities
+and life expectancy. Further, I observe considerable heterogeneity in the negative effects of
+widowhood across different genders, urban-rural categories, and city sizes. However, no
+significant differences were found across varying levels of education and the number of
+children, suggesting that children cannot substitute the role of a spouse in post-widowhood
+life. The mechanism analysis reveals that individuals try to mitigate the negative impacts of
+widowhood by significantly increasing social activities, leisure, and the use of more
+medical resources. Additionally, remarriage in middle and old age might offset the adverse
+effects of widowhood.  
+  [Read more](https://github.com/XinyuanLyu/xinyuanlyu.github.io/blob/main/widowhood.pdf)
 
 - **Structural Changes in the Labor Market**  
   *Abstract:* This paper analyzes the structural shifts in the labor market, focusing on how economic policies impact employment patterns.  
