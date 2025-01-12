@@ -6,4 +6,4 @@ permalink: /cv/
 
 # My CV
 
-- look at my cv：<a href="assets/cv.pdf" target="_blank"></a>
+- 查看我的简历：<a href="https://xinyuanlyu.github.io/Lyu-Xinyuan%20CV.pdf" target="_blank">点击这里查看 PDF 版本</a>
