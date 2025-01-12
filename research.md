@@ -8,41 +8,17 @@ permalink: /research/
 
 ## Economics
 - **Health and Cognitive Consequences of Widowhood in Middle-aged and Elderly in China**  
-  *Abstract:* This research utilizes China Health and Retirement Longitudinal Study (CHARLS) data
-employing event study methodology to investigate the effects of widowhood on mortality
-risk, health, and cognitive function among middle-aged and elderly individuals in China. I
-did not find significant effects of widowhood on mortality risk. However, my results
-indicate a minor impact on physical health, primarily reflected in an increased probability of
-chronic diseases. Notably, there is a significant rise in the risk of depression and cognitive
-impairment, adversely affecting Instrumental Activities of Daily Living (IADL) capabilities
-and life expectancy. Further, I observe considerable heterogeneity in the negative effects of
-widowhood across different genders, urban-rural categories, and city sizes. However, no
-significant differences were found across varying levels of education and the number of
-children, suggesting that children cannot substitute the role of a spouse in post-widowhood
-life. The mechanism analysis reveals that individuals try to mitigate the negative impacts of
-widowhood by significantly increasing social activities, leisure, and the use of more
-medical resources. Additionally, remarriage in middle and old age might offset the adverse
-effects of widowhood.  
-  [Read more](https://github.com/XinyuanLyu/xinyuanlyu.github.io/blob/main/widowhood.pdf)
+  *Abstract:* This research utilizes China Health and Retirement Longitudinal Study (CHARLS) data employing event study methodology to investigate the effects of widowhood on mortality risk, health, and cognitive function among middle-aged and elderly individuals in China. I did not find significant effects of widowhood on mortality risk. However, my results indicate a minor impact on physical health, primarily reflected in an increased probability of chronic diseases. Notably, there is a significant rise in the risk of depression and cognitive impairment, adversely affecting Instrumental Activities of Daily Living (IADL) capabilities and life expectancy. Further, I observe considerable heterogeneity in the negative effects of widowhood across different genders, urban-rural categories, and city sizes. However, no significant differences were found across varying levels of education and the number of children, suggesting that children cannot substitute the role of a spouse in post-widowhood life. The mechanism analysis reveals that individuals try to mitigate the negative impacts of widowhood by significantly increasing social activities, leisure, and the use of more medical resources. Additionally, remarriage in middle and old age might offset the adverse effects of widowhood.  
+  [Read more](https://xinyuanlyu.github.io/widowhood.pdf)
 
-- **Structural Changes in the Labor Market**  
-  *Abstract:* This paper analyzes the structural shifts in the labor market, focusing on how economic policies impact employment patterns.  
-  [Read more](https://xinyuanlyu.github.io/Labor-Market-Structural-Changes.pdf)
+- **Interventionism and the "Time" in the Causal Analysis in Historical Social Studies**  
+  *Abstract:* When analyzing social science issues within the framework of interventionism, the problem of time effects inevitably arises. This paper focuses on the clarification of interventionism and the delineation of causal objects in the historical social studies, making time the central theme of the study. It indicates that a strictly defined intervention must necessarily and sufficiently control for time variable in order to control all potential confounding variables varying over time, leading to potential outcomes and causally possible worlds. Lastly, the paper critically analyzes the differences between treating time as a variable and object-in-time as history, the object itself, as well as the implications of these differences in interpretation. From this perspective, causal inference in historical social studies is further understood as the study of causally possible histories, emphasizing the rigor of interventions and the difference between internal and external validity. And therefore this kind of studies have their special meaning different from pure science, pure descriptive history, and just made-up fictions.  
+  [Read more](https://xinyuanlyu.github.io/Interventionism.pdf)
 
 ## Computer Science & Data Science
-- **Deep Learning Models for Economic Data Analysis**  
-  *Abstract:* This project applies deep learning techniques to analyze large-scale economic datasets, focusing on predictive modeling and feature selection.  
-  [Read more](https://xinyuanlyu.github.io/Deep-Learning-Economic-Data.pdf)
-
-- **Temporal Point Processes for Event Prediction**  
-  *Abstract:* This research develops probabilistic temporal point process models for predicting event sequences in economic systems.  
-  [Read more](https://xinyuanlyu.github.io/Temporal-Point-Processes.pdf)
+- **Probabilistic Point Process Prediction**  
+  *Abstract:* Temporal Point Processes (TPPs) are powerful tools for modeling event sequences with irregular timestamps, crucial in domains such as finance, healthcare, and social networks. This project builds on the classical Recurrent Marked Temporal Point Process (RMTPP) model by introducing two probabilistic variants, RMTPP2 and RMTPP3, as well as a novel extension utilizing Generative Adversarial Networks (GAN). RMTPP2 and RMTPP3 enhance the modeling of event uncertainty by incorporating stochastic elements into the intensity function. The GAN-based model further improves predictive performance by learning and generating realistic event sequences, subsequently applying transfer learning for accurate event type and timing predictions. Experimental evaluations on real-world datasets demonstrate that these models outperform the baseline in temporal accuracy. This work bridges the gap between deterministic RNN-based TPP modeling and probabilistic generative paradigm, offering a promising direction for future advancements in event sequence prediction.  
+  [Read more](https://xinyuanlyu.github.io/PROBABILISTIC%20POINT%20PROCESS%20PREDICTION.pdf)
 
 ## Philosophy
-- **Ethical Implications of AI in Economics**  
-  *Abstract:* This study explores the ethical considerations of applying artificial intelligence in economic decision-making, highlighting both risks and benefits.  
-  [Read more](https://xinyuanlyu.github.io/Ethical-AI-in-Economics.pdf)
-
-- **Philosophical Foundations of Market Dynamics**  
-  *Abstract:* This work delves into the philosophical underpinnings of market behavior, examining theories of rationality and ethics in economic systems.  
-  [Read more](https://xinyuanlyu.github.io/Philosophical-Market-Dynamics.pdf)
+- *To be added*
