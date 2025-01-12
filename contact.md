@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-# 联系我
+# Contact Me
 
-- **Email**: [xinyuanlyu@example.com](mailto:xinyuanlyu@example.com)
+- **Email**: [xinyuan.lyu@duke.edu](xinyuan.lyu@duke.edu); [xinyuanlyu2001@163.com](xinyuanlyu2001@163.com)
 - **GitHub**: [xinyuanlyu](https://github.com/xinyuanlyu)
