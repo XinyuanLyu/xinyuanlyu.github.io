@@ -8,6 +8,7 @@ url: "https://xinyuanlyu.github.io"
 header_pages:
   - index.md
   - research.md
-  - cv.md
   - portfolio.md
+  - cv.md
+  - Transcript.md
   - contact.md
