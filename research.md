@@ -36,5 +36,25 @@ permalink: /research/
   <p style="text-align: justify;">*Abstract:* In this article, I will first talk about the ethical biases inherent in machine learning algorithms and explore what is meant by biases in this context, as well as how this bias is unique to machine learning. Furthermore, I will attempt to explicate the nature of the unique biases and its relationship with words, language and power structure. Finally, I will discuss a debiasing algorithm proposed by computer scientists, and taking this method as a guide, propose my own further thoughts and solutions.</p>  
   [Read more](https://xinyuanlyu.github.io/Biases.pdf)
 
+- **The Possibility and Necessity of a Nietzschean Religion Philosophy - A Comparative Study of Shestov and Nietzsche's Philosophies**  
+  <p style="text-align: justify;">*Abstract:* This paper aims to provide a comparative analysis of the philosophies of Lev
+Shestov and Friedrich Nietzsche, exploring whether the tragic and religious
+philosophies proposed by Shestov offer a viable and potentially superior alternative to
+Nietzsche’s anti-nihilistic stance. The paper begins by examining the shared theme of
+nihilism in both philosophers’ works, and meticulously outlines how Nietzsche and
+Shestov define and critique the two facets of nihilism: the ancient religious and moral
+systems and modern rationalism, which represent a denial of life and the will to power
+(i.e., freedom) and a submission to necessity, respectively. Based on this foundation, the paper details Shestov’s proposed path to overcoming nihilism, illustrating a
+trajectory from the failure of nihilism to tragic philosophy to religious philosophy, ultimately pointing to Shestov’s authentic faith that opens towards God as the absolute
+creative force in the struggle. Finally, the paper analyzes Nietzsche's concepts of the
+will to power and the doctrine of eternal recurrence, presenting Shestov’s critique of
+Nietzsche. Through a reconsideration of Nietzsche’s eternal recurrence and amor fati, the paper ultimately identifies Shestov’s misunderstandings of Nietzsche’s philosophy
+and reveals that Shestov’s rebellion against necessity might not provide a more
+successful intellectual route than Nietzsche’s. Consequently, the paper concludes that
+while Shestov’s Nietzschean-inspired religious philosophy is plausible in terms of
+opposing and avoiding nihilism, it may not be necessary other than Nietzsche’s
+philosophy in offering a definitive solution to overcoming nihilism.</p>  
+  [Read more](https://xinyuanlyu.github.io/Nietzsche.pdf)
+
 
 ## Art & Literature
