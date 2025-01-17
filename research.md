@@ -28,4 +28,7 @@ permalink: /research/
   [Read more](https://xinyuanlyu.github.io/PROBABILISTIC%20POINT%20PROCESS%20PREDICTION.pdf)
 
 ## Philosophy
-- *To be added*
+- **Why We Should Still Against Sex Robots**  
+  <p style="text-align: justify;">*Abstract:* 
+This essay critiques the ethical implications of sex robots, particularly addressing the arguments supporting their development and use. While proponents like Levy argue that sex robots are akin to advanced sex toys and can enhance social utility without harm, critics emphasize their symbolic reinforcement of patriarchal norms, objectification of women, and the perpetuation of unethical sexual practices. The article engages with the Symbolic-Consequences Argument, which posits that sex robots symbolize problematic sexual norms and lead to negative societal outcomes. Responding to critiques like Danaher's, which question the immutability of these symbols and their consequences, the essay modifies the argument by rejecting a consequentialist framework. It asserts that, regardless of outcomes, commercialized sexual exchanges—including those involving robots—devalue basic human rights and dignity. The essay concludes that the development of sex robots remains ethically problematic unless robots achieve genuine autonomy and rights, fostering true human-machine relationships based on mutual respect.</p>  
+  [Read more](https://xinyuanlyu.github.io/Sex%20Robots.pdf)
