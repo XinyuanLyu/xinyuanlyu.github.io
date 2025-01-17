@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research & Projects"
+title: "Research & Projects (in Economics and Conputer Science $ Data Science)"
 permalink: /research/
 ---
 
