@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research & Projects (in Economics and Conputer Science & Data Science)"
+title: "Research & Projects"
 permalink: /research/
 ---
 
@@ -28,6 +28,8 @@ permalink: /research/
   [Read more](https://xinyuanlyu.github.io/PROBABILISTIC%20POINT%20PROCESS%20PREDICTION.pdf)
 
 ## Philosophy
+
+### Analytic philosophy & Logistics
 - **Why We Should Still Against Sex Robots**  
   <p style="text-align: justify;">*Abstract:* This essay critiques the ethical implications of sex robots, particularly addressing the arguments supporting their development and use. While proponents like Levy argue that sex robots are akin to advanced sex toys and can enhance social utility without harm, critics emphasize their symbolic reinforcement of patriarchal norms, objectification of women, and the perpetuation of unethical sexual practices. The article engages with the Symbolic-Consequences Argument, which posits that sex robots symbolize problematic sexual norms and lead to negative societal outcomes. Responding to critiques like Danaher's, which question the immutability of these symbols and their consequences, the essay modifies the argument by rejecting a consequentialist framework. It asserts that, regardless of outcomes, commercialized sexual exchanges—including those involving robots—devalue basic human rights and dignity. The essay concludes that the development of sex robots remains ethically problematic unless robots achieve genuine autonomy and rights, fostering true human-machine relationships based on mutual respect.</p>  
   [Read more](https://xinyuanlyu.github.io/Sex%20Robots.pdf)
@@ -35,6 +37,8 @@ permalink: /research/
 - **Biases, Schema and Correcting Algorithm**  
   <p style="text-align: justify;">*Abstract:* In this article, I will first talk about the ethical biases inherent in machine learning algorithms and explore what is meant by biases in this context, as well as how this bias is unique to machine learning. Furthermore, I will attempt to explicate the nature of the unique biases and its relationship with words, language and power structure. Finally, I will discuss a debiasing algorithm proposed by computer scientists, and taking this method as a guide, propose my own further thoughts and solutions.</p>  
   [Read more](https://xinyuanlyu.github.io/Biases.pdf)
+
+### Philosophy of Religion & Continental Philosophy
 
 - **The Possibility and Necessity of a Nietzschean Religion Philosophy - A Comparative Study of Shestov and Nietzsche's Philosophies**  
   <p style="text-align: justify;">*Abstract:* This paper aims to provide a comparative analysis of the philosophies of Lev
