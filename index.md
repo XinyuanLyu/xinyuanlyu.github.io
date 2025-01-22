@@ -10,7 +10,7 @@ permalink: /
 </div>
 
 ## Introduction
-I am now a first year master's student in Economics and Computation (MSEC) at Duke University. Before this, I received my bachelor's degree at Peking University. My background spans economics, philosophy, and computer science. My primary research interests lie in health economics and labor economics. I am keen on exploring the application of various econometric and machine learning techniques in applied economics research.
+I am now a first year master's student in Economics and Computation (MSEC) at Duke University. Before this, I received my bachelor's degree in philosophy and economics at Peking University. My background spans economics, philosophy, and computer science. My primary research interests lie in health economics and labor economics. I am keen on exploring the application of various econometric and machine learning techniques in applied economics research.
 
 ## Disciplines
 Computational Economics; Health Economics; Labor Economics
