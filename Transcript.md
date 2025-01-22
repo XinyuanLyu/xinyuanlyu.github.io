@@ -21,8 +21,8 @@ permalink: /Transcript/
 ## Computer Science
 - Introduction to Computing (C) A
 - Introduction to Deep Learning A+
-- Advanced topics in Deep Learning ongoing
-- Introduction to Natural Language Processing ongoing
+- Advanced topics in Deep Learning Ongoing
+- Introduction to Natural Language Processing Ongoing
 
 ## Econometrics
 - Econometrics A+
@@ -31,6 +31,8 @@ permalink: /Transcript/
 - Social Economic Surveys: Theory Methodology and Practice A+
 - Socio-Economic Survey Data Analysis A+
 - Econometrics (PhD-level) A+
+- Causality and Machine Learning in Economics Ongoing
+- Structural Methods in Labor Ongoing 
 
 ## Economics Theory and Applied Economics
 - Principles of Economics	A
