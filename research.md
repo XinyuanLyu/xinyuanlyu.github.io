@@ -70,3 +70,7 @@ philosophy in offering a definitive solution to overcoming nihilism.</p>
 
 
 ## Art & Literature
+
+- **Tracing the Origins of Perspective: Insights from the Centaur Mosaic**  
+  <p style="text-align: justify;">*Abstract:* This paper investigates the Centaur Mosaic from Hadrian’s Villa as a key example of early perspective techniques in Greco-Roman art. It analyzes the mosaic's use of foreshortening, scale variation, and shadowing to create depth and realism, comparing it to Renaissance developments. The study explores the historical evolution of perspective, emphasizing its role in advancing spatial representation in ancient art and architecture. It argues that the Centaur Mosaic bridges early artistic intuition and later scientific precision in depicting three-dimensional space.</p>  
+  [Read more](https://xinyuanlyu.github.io/%E5%8E%9F%E5%A7%8B%E9%80%8F%E8%A7%86%E6%B3%95.pdf)
