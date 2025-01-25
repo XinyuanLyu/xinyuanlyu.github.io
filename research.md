@@ -74,3 +74,9 @@ philosophy in offering a definitive solution to overcoming nihilism.</p>
 - **Tracing the Origins of Perspective: Insights from the Centaur Mosaic**  
   <p style="text-align: justify;">*Abstract:* This paper investigates the Centaur Mosaic from Hadrian’s Villa as a key example of early perspective techniques in Greco-Roman art. It analyzes the mosaic's use of foreshortening, scale variation, and shadowing to create depth and realism, comparing it to Renaissance developments. The study explores the historical evolution of perspective, emphasizing its role in advancing spatial representation in ancient art and architecture. It argues that the Centaur Mosaic bridges early artistic intuition and later scientific precision in depicting three-dimensional space.</p>  
   [Read more](https://xinyuanlyu.github.io/%E5%8E%9F%E5%A7%8B%E9%80%8F%E8%A7%86%E6%B3%95.pdf)
+
+- **Civilization’s Return and Artistic Liberation: Paul Gauguin’s Vision in Noa Noa**  
+  <p style="text-align: justify;">*Abstract:* This paper examines Paul Gauguin's Noa Noa, a journal chronicling his time in Tahiti, to uncover his artistic philosophy and critique of European modernity. It contextualizes Gauguin’s post-Impressionist art within the broader transitions of 19th-century Western art and philosophy, emphasizing his pursuit of primitivism and his ambivalence toward industrialized civilization. The study reflects on Gauguin's contribution to modernity’s artistic transformation and interrogates the meaning and limitations of his idealization of “primitive” life.</p>  
+  [Read more](https://xinyuanlyu.github.io/%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%9B%B4%E6%89%8B%E8%AE%B0%E7%A0%94%E7%A9%B6%E7%9A%84%E7%BE%8E%E6%9C%AF%E8%AE%BA%E6%96%87.pdf)
+
+
