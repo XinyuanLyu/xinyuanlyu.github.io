@@ -24,7 +24,7 @@ permalink: /Transcript/
 - Advanced topics in Deep Learning Ongoing
 - Introduction to Natural Language Processing Ongoing
 
-## Econometrics
+## Data Science or Econometrics
 - Econometrics A+
 - Applied Micro Econometrics A+
 - Applied Time Series Analysis A+
