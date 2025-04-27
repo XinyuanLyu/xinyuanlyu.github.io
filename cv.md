@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 
 # My CV
-- View My CV：Click here for the PDF version</a>
+- View My CV
