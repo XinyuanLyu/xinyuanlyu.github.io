@@ -1,0 +1,14 @@
+title: "Xinyuan Lyu's Personal Website"
+description: "Welcome to my personal website！"
+theme: minima
+baseurl: ""
+url: "https://xinyuanlyu.github.io"
+
+
+header_pages:
+  - index.md
+  - research.md
+  - portfolio.md 
+  - Transcript.md
+  - cv.md
+  - contact.md
