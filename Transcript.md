@@ -16,6 +16,7 @@ permalink: /Transcript/
 - Linear Algebra (C) A-
 - Linear Algebra and Differential Equations	A+
 - Probability and Statistics A+
+- Introduction to (Mathematical) Logic A+
 - Introduction to Real Analysis A
 
 ## Computer Science
@@ -49,3 +50,45 @@ permalink: /Transcript/
 - Quantative Marketing (PhD-level) (Onging)
 - Inventory Theory (PhD-level) (Onging)
 - Industrial Organization (Onging)
+
+## Philosophy
+
+- Introduction to Philosophy A
+- Chinese Philosophy Part I B+
+- Chinese Philosophy Part II A
+- Marxist Philosophy, Part I A
+- Marxist Philosophy, Part II B+
+- Introduction to Religious Studies B+
+- Western Philosophy, Part I A-
+- Western Philosophy, Part II A-
+- Introduction to Ethics A
+- Introduction to Philosophy of Science A
+- Introduction to Phenomenological Marxism A
+- Republic A
+- Machine Ethics A
+- Phenomenology and Ethics B+
+- Wittgenstein’s Philosophical Investigations A-
+- Methodology of Ethics A
+- Indian Philosophy and Religious Culture A-
+- Philosophy of Language B+
+- German Romanticism A
+- Aesthetics A-
+- History of Christianity A-
+
+## General Education & Liberal Arts
+
+- Logic and Argument A-
+- History of Western Fine Arts A
+- The Renaissance Art & Bible A-
+- Eastern Literature A
+- Selected Readings of English Prose (16th C. to Romantic) B+
+- Italian Renaissance Art A-
+- Introduction to American Culture A-
+- Maltese (1) A+
+- Ancient Chinese History (Part 2) A-
+- History of Ottoman-Turkey A-
+- Introduction to the Spanish Language and Culture A
+- Simplified Quantum Mechanics A
+- Nuclear Science and Human A
+- Modern Processing Technology and Practice P
+
