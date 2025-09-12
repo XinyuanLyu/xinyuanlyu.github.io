@@ -6,5 +6,5 @@ permalink: /contact/
 
 # Contact Me
 
-- **Email**: [xinyuan.lyu@duke.edu](xinyuan.lyu@duke.edu); [xinyuanlyu2001@163.com](xinyuanlyu2001@163.com)
+- **Email**: <a href="mailto:xinyuan.lyu@duke.edu">xinyuan.lyu@duke.edu</a>; <a href="mailto:xinyuanlyu2001@163.com">xinyuanlyu2001@163.com</a>
 - **GitHub**: [xinyuanlyu](https://github.com/xinyuanlyu)
