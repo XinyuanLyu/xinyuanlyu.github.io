@@ -19,7 +19,7 @@ This page outlines selected research assistant roles, responsibilities, and outc
 - Implemented NLP methods (multi-label classification, LLMs) to identify mentions of Chinese industrial policy.  
 - Conducted sentiment analysis to examine the tone of media reporting on policy-related news.  
 
-**Tools:** Python, SQL, Git, NLP libraries, Large Language Models (LLMs)  
+**Tools:** Python, SQL, NLP, Large Language Models (LLMs)  
 
 ---
 
@@ -32,7 +32,7 @@ This page outlines selected research assistant roles, responsibilities, and outc
 - Calibrated and estimated structural parameters using econometric techniques, and solved for the model’s general equilibrium.  
 - Designed and executed counterfactual simulations to quantify effects on regional housing prices, migration flows, and workplace choices.  
 
-**Tools:** Python, Stata, Structural Econometrics, Simulation methods  
+**Tools:** Python, Matlab, Structural Econometrics, Urban GE Modeling, Simulation methods  
 
 ---
 
