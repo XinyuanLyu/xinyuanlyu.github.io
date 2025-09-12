@@ -21,8 +21,9 @@ permalink: /Transcript/
 ## Computer Science
 - Introduction to Computing (C) A
 - Introduction to Deep Learning A+
-- Advanced topics in Deep Learning Ongoing
-- Introduction to Natural Language Processing Ongoing
+- Advanced topics in Deep Learning A+
+- Natural Language Processing A+
+- Advanced topics in Computer Science: LLM (Ongoing)
 
 ## Data Science or Econometrics
 - Econometrics A+
@@ -31,10 +32,9 @@ permalink: /Transcript/
 - Social Economic Surveys: Theory Methodology and Practice A+
 - Socio-Economic Survey Data Analysis A+
 - Econometrics (PhD-level) A+
-- Causality and Machine Learning in Economics Ongoing
-- Structural Methods in Labor Ongoing 
-
-## Economics Theory and Applied Economics
+- Causality and Machine Learning in Economics (A)
+  
+## Economics Theory and Applied Economics, Business
 - Principles of Economics	A
 - Intermediate Macroeconomics A
 - Intermediate Microeconomics A
@@ -46,3 +46,6 @@ permalink: /Transcript/
 - Financial Accounting A
 - Corporate Finance Pass
 - Special Topics in China Economic Research A-
+- Quantative Marketing (PhD-level) (Onging)
+- Inventory Theory (PhD-level) (Onging)
+- Industrial Organization (Onging)
