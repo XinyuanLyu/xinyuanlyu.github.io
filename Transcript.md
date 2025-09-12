@@ -32,7 +32,7 @@ permalink: /Transcript/
 - Social Economic Surveys: Theory Methodology and Practice A+
 - Socio-Economic Survey Data Analysis A+
 - Econometrics (PhD-level) A+
-- Causality and Machine Learning in Economics (A)
+- Causality and Machine Learning in Economics A
   
 ## Economics Theory and Applied Economics, Business
 - Principles of Economics	A
