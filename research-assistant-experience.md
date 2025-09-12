@@ -6,30 +6,61 @@ permalink: /research-assistant-experience/
 
 # Research Assistant Experience
 
-This page outlines selected research assistant roles, responsibilities, and outcomes. Content below is placeholder text for future expansion.
+This page outlines selected research assistant roles, responsibilities, and outcomes.
 
-## Highlights (Template)
-- Project title: Brief description of the project scope and goals
-- Advisor: Name, affiliation
-- Duration: YYYY.MM – YYYY.MM
-- Responsibilities: data collection, literature review, model implementation, experiment design, visualization, writing
-- Tools: Python, R, Stata, Latex, Git, SQL, etc.
+---
 
-## Experience 1 (Template)
-### Overview
-Short paragraph about the project background and objectives.
+## The Relationship Between U.S. Media Reporting and ATT of the China Industrial Policy 
+**Advisor:** Prof. Daniel Xu & Prof. Shaoda Wang  
+**Duration:** 2025.05 – present  
 
 ### Contributions
-- Bullet 1 describing a concrete task and impact
-- Bullet 2 describing a concrete task and impact
-- Bullet 3 describing a concrete task and impact
+- Constructed a comprehensive U.S. newspaper database and developed a large-scale pipeline to extract, process, and structure millions of news records.  
+- Implemented NLP methods (multi-label classification, LLMs) to identify mentions of Chinese industrial policy.  
+- Conducted sentiment analysis to examine the tone of media reporting on policy-related news.  
 
-### Outcomes
-- Paper, presentation, report, dataset, or code repository links (if public)
+**Tools:** Python, SQL, Git, NLP libraries, Large Language Models (LLMs)  
 
-## Experience 2 (Template)
-Repeat the structure above for additional roles.
+---
+
+## Spillovers of Housing Supply Shocks: Prices, Migration, and Workplaces 
+**Advisor:** Prof. Franklin Qian  
+**Duration:** 2025.03 – present  
+
+### Contributions
+- Developed and derived a quantitative spatial equilibrium model analyzing housing supply shock spillovers.  
+- Calibrated and estimated structural parameters using econometric techniques, and solved for the model’s general equilibrium.  
+- Designed and executed counterfactual simulations to quantify effects on regional housing prices, migration flows, and workplace choices.  
+
+**Tools:** Python, Stata, Structural Econometrics, Simulation methods  
+
+---
+
+## Township Consolidation and County Boundary Adjustment in China 
+**Advisor:** Prof. Xuan Wang  
+**Duration:** 2023.09 – 2024.03  
+
+### Contributions
+- Analyzed 10M+ firm-level records from the National Tax Survey Panel Data.  
+- Leveraged mapping APIs for bulk geocoding, integrated GIS layers with jurisdiction boundary maps.  
+- Applied Difference-in-Differences methodology to evaluate policy impacts on firms’ tax statuses.  
+
+**Tools:** Stata, Python, GIS, Difference-in-Differences  
+
+---
+
+## Migrant Workers in the Gig Economy (Yangtze River Delta) 
+**Advisor:** Prof. Dandan Zhang  
+**Duration:** 2023.09 – 2023.11  
+
+### Contributions
+- Investigated employment channels and the role of labor intermediaries in manufacturing sector labor markets.  
+- Conducted field interviews and survey design to capture worker experiences and instabilities.  
+- Assisted in RCT and pilot survey design exploring how social networks affect employment stability.  
+
+**Tools:** Survey Design, Stata, RCT methods, Interview Data  
+
+---
 
 ## Notes
-I will update this page with full details, metrics, and links soon.
-
+Additional independent research projects are listed in my CV (e.g., on telecom fraud in Myanmar, family health shocks, and point process modeling). These may be expanded into full sections here in the future.
