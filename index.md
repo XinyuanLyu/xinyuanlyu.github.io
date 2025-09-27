@@ -19,7 +19,7 @@ Beyond research, I thrive in dynamic, social, and creative environments. I write
 My long-term vision is to lead initiatives that integrate strategic thinking, data, and creativity—whether in academia, policy, or industry innovation.
 
 ## Disciplines
-Computational Economics; Industrial Organization, Econometrics, Health Economics; Labor Economics
+Deep Learning and Qunatitative Marketing, Computational Economics; Industrial Organization, Econometrics, Health Economics; Labor Economics
 
 ## Skills and expertise
 Applied Econometrics; Machine Learning; Deep Learning; Time Series Analysis; Python; R; Stata
