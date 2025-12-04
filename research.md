@@ -8,6 +8,18 @@ permalink: /research/
 
 ## Economics
 - **Health and Cognitive Consequences of Widowhood in Middle-aged and Elderly in China**  
+  <p style="text-align: justify;">*Abstract:* The integration of Machine Learning into economics has generated distinct methodological lineages, ranging from semi-parametric causal inference to deep learning-based structural estimation. However, the field lacks a unified meta-theory to rigorously compare these approaches
+and analyze their out-of-distribution generalization properties. This proposal establishes a geometric framework for economic modeling, conceptualizing estimation strategies as contraction
+operators on a metric model space. We introduce the Golden Set—the intersection of optimal models across all admissible contexts—as a robust geometric definition of invariant truth.
+Within this framework, we derive a novel decomposition of generalization error that explicitly
+accounts for context shifts. Furthermore, we formalize the epistemic tension between Conservatism (prioritizing robustness via partial identification and weaker assumptions) and Activism
+(prioritizing precision via stronger assumptions), deriving an optimal selection criterion based
+on in-sample suboptimality. Finally, we demonstrate the practical utility of these geometric
+principles through Economics-Informed Neural Networks (EINNs), which implement robust,
+set-valued identification.</p>  
+  [Read more](/assets/papers/)
+
+- **Health and Cognitive Consequences of Widowhood in Middle-aged and Elderly in China**  
   <p style="text-align: justify;">*Abstract:* This research utilizes China Health and Retirement Longitudinal Study (CHARLS) data employing event study methodology to investigate the effects of widowhood on mortality risk, health, and cognitive function among middle-aged and elderly individuals in China. I did not find significant effects of widowhood on mortality risk. However, my results indicate a minor impact on physical health, primarily reflected in an increased probability of chronic diseases. Notably, there is a significant rise in the risk of depression and cognitive impairment, adversely affecting Instrumental Activities of Daily Living (IADL) capabilities and life expectancy. Further, I observe considerable heterogeneity in the negative effects of widowhood across different genders, urban-rural categories, and city sizes. However, no significant differences were found across varying levels of education and the number of children, suggesting that children cannot substitute the role of a spouse in post-widowhood life. The mechanism analysis reveals that individuals try to mitigate the negative impacts of widowhood by significantly increasing social activities, leisure, and the use of more medical resources. Additionally, remarriage in middle and old age might offset the adverse effects of widowhood.</p>  
   [Read more](/assets/papers/widowhood.pdf)
 
