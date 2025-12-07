@@ -23,7 +23,7 @@ set-valued identification.</p>
 
 - **The Impact of Telecom Fraud Activity in Northern Myanmar on the China–Myanmar Border Region**  
   <p style="text-align: justify;">*Abstract:* This study examines the economic impact of telecom fraud activities in northern Myanmar on adjacent China-Myanmar border regions. Leveraging grid-level nighttime light
-(NTL) intensity data and city-level migration indices, the research identifies dual impacts: a localized short-term economic stimulus near border crossings and broader negative reputational effects leading to reduced legitimate migration. Utilizing differencein-differences, event-study models, and Synthetic Control Methods, the analysis provides empirical evidence highlighting the complexity of cross-border illicit activities’
+(NTL) intensity data and city-level migration indices, the research identifies dual impacts: a localized short-term economic stimulus near border crossings and broader negative reputational effects leading to reduced legitimate migration. Utilizing difference-in-differences, event-study models, and Synthetic Control Methods, the analysis provides empirical evidence highlighting the complexity of cross-border illicit activities’
 influence on regional economies</p>  
   [Read more](/assets/papers/writing_sample_empirical.pdf)
 
