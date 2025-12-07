@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research & Projects
 
-## Economics
+## Business Methodology and Economics
 - **The Geometry of Econometric Models: A Proposal**  
   <p style="text-align: justify;">*Abstract:* The integration of Machine Learning into economics has generated distinct methodological lineages, ranging from semi-parametric causal inference to deep learning-based structural estimation. However, the field lacks a unified meta-theory to rigorously compare these approaches
 and analyze their out-of-distribution generalization properties. This proposal establishes a geometric framework for economic modeling, conceptualizing estimation strategies as contraction
@@ -17,9 +17,16 @@ accounts for context shifts. Furthermore, we formalize the epistemic tension bet
 on in-sample suboptimality. Finally, we demonstrate the practical utility of these geometric
 principles through Economics-Informed Neural Networks (EINNs), which implement robust,
 set-valued identification.</p>  
-  [Read more](/assets/papers/writing_sample_theory.pdf)
+  [Read more](/assets/papers/Compact_Writing_Sample.pdf)
 
-## Social Science - Empirical Economics
+## Empirical Economics and Social Science 
+
+- **The Impact of Telecom Fraud Activity in Northern Myanmar on the China–Myanmar Border Region**  
+  <p style="text-align: justify;">*Abstract:* This study examines the economic impact of telecom fraud activities in northern Myanmar on adjacent China-Myanmar border regions. Leveraging grid-level nighttime light
+(NTL) intensity data and city-level migration indices, the research identifies dual impacts: a localized short-term economic stimulus near border crossings and broader negative reputational effects leading to reduced legitimate migration. Utilizing differencein-differences, event-study models, and Synthetic Control Methods, the analysis provides empirical evidence highlighting the complexity of cross-border illicit activities’
+influence on regional economies</p>  
+  [Read more](/assets/papers/writing_sample_empirical.pdf)
+
 - **Health and Cognitive Consequences of Widowhood in Middle-aged and Elderly in China**  
   <p style="text-align: justify;">*Abstract:* This research utilizes China Health and Retirement Longitudinal Study (CHARLS) data employing event study methodology to investigate the effects of widowhood on mortality risk, health, and cognitive function among middle-aged and elderly individuals in China. I did not find significant effects of widowhood on mortality risk. However, my results indicate a minor impact on physical health, primarily reflected in an increased probability of chronic diseases. Notably, there is a significant rise in the risk of depression and cognitive impairment, adversely affecting Instrumental Activities of Daily Living (IADL) capabilities and life expectancy. Further, I observe considerable heterogeneity in the negative effects of widowhood across different genders, urban-rural categories, and city sizes. However, no significant differences were found across varying levels of education and the number of children, suggesting that children cannot substitute the role of a spouse in post-widowhood life. The mechanism analysis reveals that individuals try to mitigate the negative impacts of widowhood by significantly increasing social activities, leisure, and the use of more medical resources. Additionally, remarriage in middle and old age might offset the adverse effects of widowhood.</p>  
   [Read more](/assets/papers/widowhood.pdf)
