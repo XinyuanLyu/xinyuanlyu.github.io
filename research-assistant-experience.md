@@ -23,7 +23,7 @@ This page outlines selected research assistant roles, responsibilities, and outc
 
 ---
 
-## Spillovers of Housing Supply Shocks: Prices, Migration, and Workplaces 
+## Spillovers of Housing Supply Shocks: Prices, Migration, and Workplaces: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5840244)
 **Advisor:** Prof. Franklin Qian  
 **Duration:** 2025.03 – present  
 
