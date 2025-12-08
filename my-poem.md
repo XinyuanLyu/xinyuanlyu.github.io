@@ -470,5 +470,173 @@ and sleep in waiting.
 </div>
 
 
+<div class="poem-wrapper">
+  <div class="poem-title">I and Me</div>
+  <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
+
+  <div class="poem-grid">
+
+    <!-- 中文栏 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">中文</div>
+
+在睡眠中喜悦  
+喜悦是我的  
+寂灭，沉静  
+何时而言我  
+何日而执着  
+
+爱在旋转中纷扰  
+紫罗兰的梦幻  
+摩耶，摩耶  
+哦，你爱人  
+何时现在我的眼前  
+使我的眼里只有你  
+在天鹅绒的梦幻里  
+波浪涌起沉醉的花香  
+红石榴晶莹欲滴的  
+浓郁夹着火焰的初阳  
+哦，你爱人  
+何日来到了我的身旁  
+芬芳你清香的  
+令我沉醉  
+令我沉醉  
+沉醉着的迷惘
+
+---
+
+我在沉睡中喜悦  
+喜悦是你的  
+炭灭，安详  
+梦中一股流水  
+你在流水中飘飏  
+我进入你  
+徜徉于夏日的惆怅  
+我在哪里  
+我在哪里  
+
+天上飘着纷繁的白雪  
+我如何去追寻你足迹  
+哦，我怅惘的  
+何处去寻找  
+何不去爱我  
+何时不爱我  
+何时道出我  
+
+我出现  
+可怜的小人儿  
+尽被爱环抱着  
+在爱的芳乳中哺养  
+指尖流溢的  
+握住那双手  
+明月掩映的  
+凝视那双眸
+
+---
+
+我喜悦的  
+喜悦一方的境界  
+月光映射出清影  
+阳光昭示出身姿  
+这婀娜的  
+曼妙的  
+绮丽幻想般的回旋  
+
+何时有我  
+何时是我  
+这一方净土  
+净土一方的境界  
+
+于是摘来果子吃  
+捧来清泉饮  
+喜悦于我的  
+喜悦一方的境界
+
+    </div>
+
+    <!-- 英文栏 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">English</div>
+
+In sleep there is joy;  
+and joy is mine—  
+extinction, stillness.  
+When shall I speak of myself?  
+On which day shall I cling?  
+
+Love whirls in rotation,  
+a dream of violets—  
+Maya, Maya.  
+O you, beloved,  
+when do you stand before my eyes,  
+filling them so they see only you?  
+In a velvet dream,  
+waves rise with intoxicating fragrance.  
+Pomegranates, crystal and dripping—  
+a rich dawn laced with flame.  
+
+O you, beloved—  
+on what day did you come beside me?  
+Your fragrance, pure and bright,  
+makes me drunk,  
+makes me drunk—  
+lost within intoxication.
+
+---
+
+In sleep I feel joy;  
+and joy is yours—  
+embers fading, peaceful.  
+A stream flows through the dream;  
+you drift upon the water.  
+I enter you,  
+wander in summer’s sorrow.  
+Where am I?  
+Where am I?  
+
+Snow drifts thick across the sky—  
+how shall I follow your footprints?  
+O my desolate one,  
+where shall I seek?  
+Why will you not love me?  
+When did you cease to love me?  
+When did you speak me into being?  
+
+I appear—  
+a pitiable little one,  
+wrapped wholly in love,  
+nursed by love’s fragrant milk.  
+
+From my fingertips overflowing—  
+I grasp those hands;  
+in moonlight veiled,  
+I gaze into those eyes.
+
+---
+
+O my joy—  
+joy within this realm.  
+Moonlight casts a clear shadow;  
+sunlight reveals a graceful form—  
+lovely,  
+pliant,  
+turning like a fantastical dream.  
+
+When was there me?  
+When am I myself?  
+This patch of pure land—  
+a realm of purity.  
+
+So I pluck fruit to eat,  
+cup clear spring to drink,  
+joy in what is mine,  
+joy in this single realm.
+
+    </div>
+  </div>
+</div>
+
+
+
 <!-- ========= 新的诗就复制上面这个 <div class="poem-wrapper"> ... </div> 模块 ========= -->
 
