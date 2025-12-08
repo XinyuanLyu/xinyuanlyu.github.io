@@ -289,6 +289,63 @@ the one I love most deeply.
 
 
 <div class="poem-wrapper">
+  <div class="poem-title">My Last Dream</div>
+  <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
+
+  <div class="poem-grid">
+
+    <!-- 中文 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">中文</div>
+
+永远的主，  
+将静默的星洒满晨间的夜空  
+逝去的爱，  
+将你的泪水散在泥土的花瓣上  
+
+倘若永恒者的叹息里  
+本盛满着奥秘与圣洁  
+就在你圣洁的默想里  
+凝视我爱的数次暂歇  
+
+一时我在梦中踌躇  
+然而在颠倒的梦想里  
+你爱着我，我爱着你
+    </div>
+
+    <!-- English -->
+    <div class="poem-col">
+      <div class="poem-lang-label">English</div>
+
+Eternal Lord,  
+who scatters silent stars  
+across the morning night—  
+
+Departed love,  
+who casts your tears  
+upon the petals of earthly flowers—  
+
+If in the sigh  
+of the Everlasting One  
+there lies mystery and holiness,  
+
+then in your sacred contemplation  
+gaze upon the brief pauses  
+of my love.  
+
+For a moment  
+I falter in dreams;  
+yet within the overturned dream  
+you love me,  
+and I love you.
+    </div>
+
+  </div>
+</div>
+
+
+
+<div class="poem-wrapper">
   <div class="poem-title">Softly I Said to Thee</div>
   <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
 
