@@ -98,6 +98,197 @@ and then you kiss me again, rise, and depart.
 
 
 <div class="poem-wrapper">
+  <div class="poem-title">Thy Name</div>
+  <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
+
+  <div class="poem-grid">
+
+    <!-- 中文 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">中文</div>
+
+告诉我你的名字  
+我亲爱的  
+以便让我在梦中  
+呢喃着呼唤你远方的背影  
+或者呼唤你的青春  
+让我紧紧抱着你  
+让你噙泪的双眼柔情  
+柔情似水地  
+以便我的青春在  
+你的温柔中随波逐流  
+
+我的青春呵，青春  
+你在风中往哪里去  
+我驻足于花丛中  
+待天山的花儿烂漫时  
+我在花朵的湖水里泛舟  
+海鸥和大雁呵  
+多情而迷路的候鸟  
+在北方的寒风里启程  
+海鸥之湖和大雁之滩  
+如同南国迷失的歌  
+
+告诉我你的名字  
+我的爱人  
+以便让我在你的青春里  
+看见北国的风雪  
+和南国的融融秋水  
+秋水里我询问你的名字  
+凭借你的名字  
+以炽热之爱之名  
+我得以胜利  
+胜过我的踯躅和寂寞  
+寂寞是我独自叹息  
+于是我的海浪如同爱之梦  
+交错着诉说着被遗忘的  
+舞蹈里我献上一支玫瑰  
+然后温柔地倾诉——我爱你  
+于是我必将快来  
+乘着歌声和你的名字  
+
+我的生命就是我的青春  
+我的死亡就是我的生命  
+我是我的确证  
+然后我用生命的力量  
+去联结着你的泥土  
+我必用我诚实的泪与爱  
+婉转地牵着你的手  
+你的连桥是我的确证  
+让我紧紧抱着你  
+因为我用我的生命和青春  
+去和你还有你的温柔  
+连同你的花香和山脉  
+你的笑靥与波纹  
+你的温度和冰冷  
+你的炽痛的和虔诚的  
+成为光照的火焰  
+我必将成为苦难而幸福大地  
+从而去和你在大地相见  
+
+我的名字——赤子  
+让我以泥土的儿子的名字  
+去追寻你的名字  
+从而在你的名字里  
+呼吸间早就爱上你  
+告诉我你的名字  
+亲爱的，我的爱人  
+还有你青春的名字  
+以你的生命和死亡之诗的名字  
+引我得见我深爱着的你
+    </div>
+
+    <!-- English -->
+    <div class="poem-col">
+      <div class="poem-lang-label">English</div>
+
+Tell me your name,  
+my beloved,  
+so that in dreams  
+I may whisper  
+and call the silhouette of your distant back—  
+or call upon your youth,  
+so I may hold you tightly,  
+and let your tear-bright eyes turn tender,  
+tender as flowing water,  
+so that my youth  
+may drift within  
+your gentleness.  
+
+My youth, ah youth—  
+where are you going  
+in the wind?  
+
+I stand among the flowers  
+waiting for the blooms of Tianshan.  
+I row across the lake of blossoms;  
+the seagulls and wild geese,  
+affectionate, wandering birds,  
+depart in northern winds.  
+
+The lake of gulls  
+and the shore of geese  
+are like songs lost  
+in the southern land.  
+
+Tell me your name,  
+my love,  
+so that in your youth  
+I may see northern snow  
+and southern autumn waters.  
+
+In the autumn waters  
+I ask for your name;  
+by your name,  
+in the name of burning love,  
+I triumph—  
+over hesitation,  
+over my solitude.  
+
+Loneliness is my solitary sigh.  
+Thus my waves,  
+like dreams of love,  
+interweave forgotten stories.  
+
+Within the dance  
+I offer a rose  
+and softly confess—  
+I love you.  
+
+And so I will soon come,  
+carried by song  
+and by your name.  
+
+My life is my youth;  
+my death is my life.  
+I am my own affirmation.  
+
+With the strength of my life  
+I join myself to your earth;  
+with honest tears and love  
+I hold your hand.  
+
+Your bridge of union  
+is my affirmation.  
+
+Let me hold you tight,  
+for with my life and youth  
+I join myself  
+to you and your tenderness—  
+your fragrance and mountains,  
+your dimples and ripples,  
+your warmth and cold,  
+your burning and devout depths,  
+becoming the flame  
+that illuminates.  
+
+I shall become  
+the suffering and blessed earth  
+and thus meet you  
+upon the earth.  
+
+My name—child of clay.  
+Let me, with the name  
+of the earth’s son,  
+pursue your name;  
+and within your name  
+I have long since loved you  
+in every breath.  
+
+Tell me your name,  
+beloved, my love,  
+and the name of your youth—  
+and with the name of your poem  
+of life and death,  
+lead me to behold  
+the one I love most deeply.
+    </div>
+
+  </div>
+</div>
+
+
+<div class="poem-wrapper">
   <div class="poem-title">Softly I Said to Thee</div>
   <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
 
