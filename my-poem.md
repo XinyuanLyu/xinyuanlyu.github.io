@@ -636,6 +636,390 @@ joy in this single realm.
   </div>
 </div>
 
+<div class="poem-wrapper">
+  <div class="poem-title">Coming the Bride</div>
+  <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
+
+  <div class="poem-grid">
+
+    <!-- 中文 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">中文</div>
+
+我如何地迷醉  
+夏日沉蒙的湖水  
+新娘来了罢  
+
+秀美礼服明灭了宝石  
+哦你爱人  
+何时我的眼前  
+现了你的脸庞  
+
+更何时的  
+我迷醉于你的芬芳  
+你芬芳的身影  
+飘香着爱恋的  
+
+我何曾去爱恋  
+爱恋不曾是热情  
+我意欲着你的怀抱  
+我愿在你的怀抱中驰往  
+或者你在我的怀中  
+由热恋亲吻你的额头  
+
+我何曾爱恋过你的芬芳  
+只是触及的  
+在你清澈的流淌间  
+回首瞥见一处飘香  
+
+你甜美的嘴唇  
+圣洁的心  
+毫不被玷污的  
+一切芬芳间流溢  
+满溢在你的手心里  
+
+在途中迷茫  
+迷茫在你的耳边  
+即使不见脸庞  
+那灵魂出离  
+到你的身旁  
+
+你灵魂安然着  
+在境界里徜徉  
+原型的美人  
+霓虹般的雨  
+我意欲驰往  
+来到你的脚边  
+轻触手指间的
+
+---
+
+我在林间漫游  
+我在你的世界里踯躅  
+世界在我的心中绽放  
+
+何曾思恋着爱人  
+我在蓝蝶花丛中辗转  
+我彻夜难眠  
+只把白铃捻在盒中  
+
+何须呼唤你的名字  
+我轻挑脚步  
+跳舞般地  
+舞蹈着前往  
+
+你圣洁的忧郁  
+常宛转在泥土的角落  
+我看着你的忧郁  
+独自在泥土上流浪
+    </div>
+
+    <!-- English -->
+    <div class="poem-col">
+      <div class="poem-lang-label">English</div>
+
+How I am intoxicated  
+by the dimmed waters of summer’s lake—  
+the bride has come.  
+
+Her graceful dress flickers with gemstones.  
+O you, beloved,  
+when did your face  
+appear before my eyes?  
+
+And when,  
+when did I fall drunk  
+upon your fragrance?  
+Your fragrant silhouette,  
+scented with love.  
+
+When have I ever loved?  
+Love has never been passion.  
+Yet I long for your embrace;  
+I wish to journey within it—  
+or you in mine,  
+your brow kissed in fervent affection.  
+
+Never have I truly loved your fragrance;  
+it was only touched—  
+a glimmer drifting  
+through your clear flowing presence.  
+Turning back, I glimpse  
+a fading trace of scent.  
+
+Your sweet lips,  
+your sacred heart,  
+unstained—  
+overflowing among all fragrance,  
+filling your palms.  
+
+Lost along the way,  
+lost beside your ear,  
+even without seeing your face  
+your soul departs  
+and comes beside me.  
+
+Your soul rests serene,  
+wanders through its realm.  
+The archetypal beauty—  
+a rain of neon hues.  
+I long to ride toward you,  
+come to your feet,  
+lightly touching  
+between my fingers.
+
+---
+
+I wander in the forest;  
+I hesitate within your world.  
+The world blossoms in my heart.  
+
+When have I yearned for a lover?  
+I turn among blue butterflies.  
+Sleepless through the night,  
+I place white bells into a box.  
+
+What need have I  
+to call your name?  
+I lift my steps lightly—  
+dancing,  
+dancing toward you.  
+
+Your sacred melancholy  
+always lingers  
+in the corners of the earth.  
+
+I watch your sorrow,  
+wandering alone  
+upon the soil.
+    </div>
+
+  </div>
+</div>
+
+
+<div class="poem-wrapper">
+  <div class="poem-title">From the Tango</div>
+  <div class="poem-meta">—— 中英对照 · By Xinyuan</div>
+
+  <div class="poem-grid">
+
+    <!-- 中文 -->
+    <div class="poem-col">
+      <div class="poem-lang-label">中文</div>
+
+回旋踱步中战栗着  
+战栗着我凝视着你  
+双手颤抖的凝视  
+视线在明暗中破碎  
+哪里凝视着的  
+在一片无所知的地方迸裂  
+矗而回首着的  
+歌者低叹悲哀  
+高歌者的泪水  
+掩面而不止息  
+这热泪泼洒着  
+在回环舞蹈中  
+舞步踏破痴癫的热爱  
+我来到你的圣殿里徘徊  
+回旋而震颤着摇摆  
+我的心在你的圣殿里局促  
+何处安然着的湖面  
+尽在创生的爱里激荡  
+悲怆的哀情  
+狂喜的欢乐  
+我步伐没有犹豫  
+纵身一跃于你的凝视  
+何处超然着的川流  
+逝去着不尽的无言  
+然而在这一瞥的凝视中  
+战栗也成了永恒  
+怀着一切伟大的造物主  
+我在你的凝视里纵然地创世  
+何必来到你的圣殿里  
+这燃着火焰的诗篇  
+何必在我的胸中迸发  
+一切凝视也无所适从  
+我迷失在你的凝视里  
+或者在我的凝视里  
+那创生着的绵延  
+我在流淌上放歌  
+歌者喜悦的  
+我在喜悦中颤抖  
+飘忽着的怆然  
+我掩面痛哭  
+我无力者的身躯  
+无言歌咏者的诗情  
+只凝视着你的圣殿  
+凝视而不知何处  
+我诚实者的企盼  
+确乎在怆然的期待中  
+我踱步于你的门前  
+如同燃烧一堆烈火  
+火焰中伫立着我  
+温柔者的柔情  
+炽热者的伤痛  
+我放歌于狂喜的流铸  
+却战栗在一片冰雪的冻土
+
+---
+
+你在何处流转  
+我眼光迷离着的追寻  
+却丝毫不加迟疑  
+凝视在头顶艳阳中消失  
+怅然者的哀伤  
+无助者的期待  
+反顾一处凝注了的  
+在固然执迷的虚妄  
+我在痴癫中执著着  
+何处是我的依归  
+创生者喜悦于这可爱的  
+我在创世的喜悦中流连  
+我紧握着你的双手  
+片刻也舍不得分开  
+我拥抱着你的身躯  
+纵然流逝时光  
+时光在我的凝注中永恒  
+我执着地凝视着  
+无法移开丝毫  
+无谓道说的神秘  
+只在你的圣殿里往返  
+我哪里和你的眼光汇聚  
+只在喜悦中怅然痛哭  
+一切悲怆者在鲜花丛中掩面  
+却只拥抱着泥土不放  
+为此那泥土浸满了泪水  
+至死不渝地宣誓着忠诚的约定
+    </div>
+
+    <!-- English -->
+    <div class="poem-col">
+      <div class="poem-lang-label">English</div>
+
+Shuddering in the circling steps,  
+shuddering, I gaze at you—  
+with trembling hands I gaze,  
+my sight breaking  
+between light and shadow.  
+
+Where is it that I gaze?  
+In a place of utter unknowing  
+something bursts.  
+
+Straightening, turning back,  
+the singer sighs in sorrow;  
+the triumphant singer weeps,  
+covering his face, unceasing.  
+
+These hot tears scatter  
+through the circling dance;  
+the steps stamp out  
+a mad and fevered love.  
+
+I come to your sanctuary and wander,  
+trembling in rotation, swaying.  
+My heart is cramped  
+within your holy shrine.  
+
+Where is the tranquil surface  
+of the lake—  
+all stirred by the love of creation?  
+
+Tragic grief,  
+ecstatic joy—  
+my steps do not hesitate.  
+I leap toward your gaze.  
+
+Where is the transcendent current,  
+fleeing in endless silence?  
+
+Yet within this single glance,  
+shuddering becomes eternal.  
+
+Holding the great Creator within,  
+I fashion the world  
+inside your gaze.  
+
+Why must I come  
+to your sacred hall?  
+Why must this flaming scripture  
+burst within my chest?  
+
+All gazes lose their place;  
+I am lost in your gaze—  
+or lost within my own.  
+
+From that creative unfolding,  
+I sing upon the flowing stream;  
+the singer, joyful,  
+trembles in that joy.  
+
+A drifting sorrow,  
+I cover my face and weep.  
+My powerless body,  
+my voiceless lyricism—  
+only gazing toward your holy hall,  
+gazing without knowing where.  
+
+My honest longing  
+stands firm in aching expectation.  
+I pace before your gates  
+like a fire burning fiercely,  
+and within the flame I stand—  
+the tenderness of the gentle,  
+the pain of the burning.  
+
+I sing into ecstatic molten flow,  
+yet shudder upon  
+a frozen land of ice and snow.
+
+---
+
+Where do you wander?  
+My blurred eyes pursue you  
+without the slightest doubt.  
+
+My gaze dissolves  
+in the blazing sun above.  
+The sorrow of the forlorn,  
+the hope of the helpless—  
+
+Turning back, I meet  
+a gaze fixed in obsession,  
+anchored in illusion.  
+I cling in madness—  
+where is my return?  
+
+The Creator delights  
+in the lovely;  
+I linger in the joy of creation.  
+
+I clasp your hands  
+and cannot part even a moment.  
+I embrace your body—  
+even if time flows away,  
+time becomes eternal  
+beneath my fixed gaze.  
+
+I look, unwavering,  
+unable to move even slightly.  
+The useless mystery of speech—  
+I wander only in your sanctuary.  
+
+Where do our gazes meet?  
+Only in joy do I weep in sorrow.  
+
+All mourners cover their faces  
+among the flowers,  
+yet embrace only the soil—  
+soaking it with tears,  
+swearing fidelity  
+unto death.
+    </div>
+
+  </div>
+</div>
 
 
 <!-- ========= 新的诗就复制上面这个 <div class="poem-wrapper"> ... </div> 模块 ========= -->
