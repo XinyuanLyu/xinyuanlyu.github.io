@@ -7,6 +7,11 @@ permalink: /research/
 # Research & Projects
 
 ## Business Methodology and Economics
+- **Debiased Semi-Parametric Approach for Contextual Stochastic
+Optimization: Theory and Application to the Newsvendor**  
+  <p style="text-align: justify;">*Abstract:* We study contextual stochastic optimization problems in which decisions are made based on auxiliary covariates and uncertain outcomes. The standard predict-then-optimize approach can suffer from substantial bias in finite samples due to first-order sensitivity to estimation errors in the predictive model, particularly when flexible machine learning methods are used. To address this issue, we propose a debiased semiparametric framework that constructs an orthogonalized risk function inspired by ideas from double and debiased machine learning. By incorporating an explicit correction term derived from the efficient influence function, the proposed objective satisfies Neyman orthogonality with respect to nuisance parameters, thereby preventing the transmission of first-order prediction bias into the optimization stage. We further show that cross-fitting plays a crucial role in mitigating stochastic errors arising from moment estimation. Under standard regularity conditions, the resulting decision rule achieves a fast excess-risk convergence rate, representing a quadratic improvement over naive plug-in methods. We illustrate the framework in the contextual newsvendor problem using a deep log-linear demand model, and numerical experiments demonstrate consistent performance gains over both plug-in and end-to-end baselines in finite samples.</p>  
+  [Read more](/assets/papers/Inventory_Paper_Draft.pdf)
+  
 - **The Geometry of Econometric Models: A Proposal**  
   <p style="text-align: justify;">*Abstract:* The integration of Machine Learning into economics has generated distinct methodological lineages, ranging from semi-parametric causal inference to deep learning-based structural estimation. However, the field lacks a unified meta-theory to rigorously compare these approaches
 and analyze their out-of-distribution generalization properties. This proposal establishes a geometric framework for economic modeling, conceptualizing estimation strategies as contraction
