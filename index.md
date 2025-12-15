@@ -10,7 +10,7 @@ permalink: /
 </div>
 
 ## Introduction
-I am a cross-disciplinary thinker trained in Economics, Philosophy, and AI, currently pursuing my M.S. in Economics & Computation at Duke University. Before Duke, I completed dual B.A. degrees in Economics and Philosophy at Peking University.
+I am a cross-disciplinary thinker trained in Economics, Philosophy, and Computer Science, currently pursuing my M.S. in Economics & Computation at Duke University. Before Duke, I completed dual B.A. degrees in Economics and Philosophy at Peking University.
 
 My academic journey cuts across the humanities, sciences, engineering, business, and social sciences. My thinking is always directed toward totality and structure, and my aspiration is to contribute to paradigm-level innovations. Recently, I have been particularly interested in how deep learning and AI can expand the paradigms of economics and business research, enabling new ways to model decision-making, markets, and institutions.
 
@@ -19,7 +19,7 @@ Beyond research, I thrive in dynamic, social, and creative environments. I write
 My long-term vision is to lead initiatives that integrate strategic thinking, data, and creativity—whether in academia, policy, or industry innovation.
 
 ## Disciplines
-Deep Learning and Qunatitative Marketing, Computational Economics; Industrial Organization, Econometrics, Health Economics; Labor Economics
+Deep Learning and Qunatitative Marketing, Data-Driven Operation Management, Computational Economics, Industrial Organization, Econometrics, Urban Economics; Labor Economics
 
 ## Skills and expertise
 Applied Econometrics; Machine Learning; Deep Learning; Time Series Analysis; Python; R; Stata
