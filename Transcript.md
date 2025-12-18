@@ -4,10 +4,6 @@ title: "Transcript"
 permalink: /Transcript/
 ---
 
-# My Transcript
-- View My Graduate Transcript at DKU：<a href="/assets/transcripts/Graduate-Transcript.pdf" target="_blank">Click here for the PDF version</a>
-- View My Undergraduate Transcript at PKU：<a href="/assets/transcripts/Undergraduate-Transcript.pdf" target="_blank">Click here for the PDF version</a>
-
 # Core Courses and Grades
 ## Math, Statistics
 - Advanced Mathematics (D) A+
@@ -24,7 +20,7 @@ permalink: /Transcript/
 - Introduction to Deep Learning A+
 - Advanced topics in Deep Learning A+
 - Natural Language Processing A+
-- Advanced topics in Computer Science: LLM (Ongoing)
+- Advanced topics in Computer Science: LLM A
 
 ## Data Science or Econometrics
 - Econometrics A+
@@ -47,9 +43,10 @@ permalink: /Transcript/
 - Financial Accounting A
 - Corporate Finance Pass
 - Special Topics in China Economic Research A-
-- Quantative Marketing (PhD-level) (Onging)
+- Industrial Organization A+
+- Quantative Marketing (PhD-level) A+
 - Inventory Theory (PhD-level) (Onging)
-- Industrial Organization (Onging)
+
 
 ## Philosophy
 
