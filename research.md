@@ -47,12 +47,38 @@ influence on regional economies</p>
   <p style="text-align: justify;">*Abstract:* When analyzing social science issues within the framework of interventionism, the problem of time effects inevitably arises. This paper focuses on the clarification of interventionism and the delineation of causal objects in the historical social studies, making time the central theme of the study. It indicates that a strictly defined intervention must necessarily and sufficiently control for time variable in order to control all potential confounding variables varying over time, leading to potential outcomes and causally possible worlds. Lastly, the paper critically analyzes the differences between treating time as a variable and object-in-time as history, the object itself, as well as the implications of these differences in interpretation. From this perspective, causal inference in historical social studies is further understood as the study of causally possible histories, emphasizing the rigor of interventions and the difference between internal and external validity. And therefore this kind of studies have their special meaning different from pure science, pure descriptive history, and just made-up fictions.</p>  
   [Read more](/assets/papers/Interventionism.pdf)
 
-## Computer Science & Data Science
+## Computer Science Course Papers and Reports
 - **Probabilistic Point Process Prediction**  
   <p style="text-align: justify;">*Abstract:* Temporal Point Processes (TPPs) are powerful tools for modeling event sequences with irregular timestamps, crucial in domains such as finance, healthcare, and social networks. This project builds on the classical Recurrent Marked Temporal Point Process (RMTPP) model by introducing two probabilistic variants, RMTPP2 and RMTPP3, as well as a novel extension utilizing Generative Adversarial Networks (GAN). RMTPP2 and RMTPP3 enhance the modeling of event uncertainty by incorporating stochastic elements into the intensity function. The GAN-based model further improves predictive performance by learning and generating realistic event sequences, subsequently applying transfer learning for accurate event type and timing predictions. Experimental evaluations on real-world datasets demonstrate that these models outperform the baseline in temporal accuracy. This work bridges the gap between deterministic RNN-based TPP modeling and probabilistic generative paradigm, offering a promising direction for future advancements in event sequence prediction.</p>  
-  [Read more](/assets/papers/PROBABILISTIC%20POINT%20PROCESS%20PREDICTION.pdf)
+  [Read more](/assets/papers/PPP.pdf)
 
-## Philosophy
+- **Attacks and Defenses in Retrieval Augmented Generation with Large Language Models**  
+  <p style="text-align: justify;">*Abstract:* Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by
+grounding responses in external documents. However, this external information can be unreliable—containing misinformation, disinformation, or outdated facts—leading to conflicts
+with the LLMs’ internal knowledge. Recent approaches propose confidence reasoning to address this, encouraging LLMs to calibrate their trust in retrieved content based on internal
+and external confidence. While promising, it remains unclear which types of misleading documents most effectively bypass these defenses. In this paper, we systematically study how
+adversarial contexts exploit LLM biases to undermine confidence reasoning. We identify six
+key biases—authority, length, linguistic confusion, confirmation, confidence, and instruction
+—and construct controlled adversarial datasets based on the TriviaQA dataset, evaluating
+their impact using Accuracy with False Context (Accf). Our experiments with GPT-4o mini under three distinct defense strategies—Direct Input Augmentation (DIA), Implicit
+Self-guided Confidence Reasoning (ISCR), and Explicit Self-guided Confidence Reasoning
+(ESCR)—reveal significant vulnerabilities, particularly toward authoritative, verbose, and
+multilingual content. We further explore whether an attacker LLM can automatically generate more effective misinformation by using feedback from a defender LLM. Surprisingly, despite iterative refinement based on explicit confidence reasoning feedback, attacker-generated
+documents fail to consistently increase in misleading effectiveness. This suggests a fundamental disconnect between model-generated justifications and actual internal reasoning.
+Our findings expose critical weaknesses in current RAG defenses, highlighting the need for
+more faithful, interpretable, and bias-aware confidence estimation strategies. These insights
+have significant practical implications for deploying reliable RAG systems in sensitive, highstakes areas such as finance, law, and healthcare.</p>  
+  [Read more](/assets/papers/RAG.pdf)
+
+- **Technical Report for Optimizing Small Language Models under Capacity Constraints**  
+  <p style="text-align: justify;">*Abstract:* This study investigates optimization strategies for the Gemma-3-270M model
+across various tasks: factual question answering, multi-step reasoning, and instruction following. We train a router to predict task types and dispatch inputs
+to specialized expert models. For factual QA, we implement BM25-based retrieval augmentation. For reasoning, we apply knowledge distillation from a 1B parameter teacher model using both soft logit targets and chain-of-thought supervision to transfer reasoning capabilities. For instruction following, we perform supervised fine-tuning on diverse instruction datasets. Our integrated system achieves 20.72% exact match (relaxed) on TriviaQA (2× baseline), 26.63%
+accuracy on ARC-Challenge, and 39.23% loose instruction accuracy on IFEval,
+exceeding target performance across all benchmarks.</p>  
+  [Read more](/assets/papers/LLM.pdf)
+
+## Philosophy Essays
 
 ### Analytic philosophy & Logistics
 - **Why We Should Still Against Sex Robots**  
@@ -94,7 +120,7 @@ philosophy in offering a definitive solution to overcoming nihilism.</p>
   [Read more](/assets/papers/Nietzsche.pdf)
 
 
-## Art & Literature
+## Art & Literature Essays
 
 - **Tracing the Origins of Perspective: Insights from the Centaur Mosaic**  
   <p style="text-align: justify;">*Abstract:* This paper investigates the Centaur Mosaic from Hadrian’s Villa as a key example of early perspective techniques in Greco-Roman art. It analyzes the mosaic's use of foreshortening, scale variation, and shadowing to create depth and realism, comparing it to Renaissance developments. The study explores the historical evolution of perspective, emphasizing its role in advancing spatial representation in ancient art and architecture. It argues that the Centaur Mosaic bridges early artistic intuition and later scientific precision in depicting three-dimensional space.</p>  
