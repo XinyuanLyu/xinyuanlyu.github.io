@@ -43,7 +43,7 @@ permalink: /Transcript/
 - Financial Accounting A
 - Corporate Finance Pass
 - Special Topics in China Economic Research A-
-- Industrial Organization A+
+- Industrial Organization (PhD-level) A+
 - Quantative Marketing (PhD-level) A+
 - Inventory Theory (PhD-level) A+ 
 
