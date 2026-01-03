@@ -45,7 +45,7 @@ permalink: /Transcript/
 - Special Topics in China Economic Research A-
 - Industrial Organization A+
 - Quantative Marketing (PhD-level) A+
-- Inventory Theory (PhD-level) (Onging)
+- Inventory Theory (PhD-level) A+ 
 
 
 ## Philosophy
