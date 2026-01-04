@@ -54,26 +54,26 @@ influence on regional economies</p>
 
 - **Attacks and Defenses in Retrieval Augmented Generation with Large Language Models**  
   <p style="text-align: justify;">*Abstract:* Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by
-grounding responses in external documents. However, this external information can be unreliable—containing misinformation, disinformation, or outdated facts—leading to conflicts
-with the LLMs’ internal knowledge. Recent approaches propose confidence reasoning to address this, encouraging LLMs to calibrate their trust in retrieved content based on internal
-and external confidence. While promising, it remains unclear which types of misleading documents most effectively bypass these defenses. In this paper, we systematically study how
+grounding responses in external documents. However, this external information can be unreliable—containing misinformation, disinformation, or outdated facts—leading to conflicts
+with the LLMs’ internal knowledge. Recent approaches propose confidence reasoning to address this, encouraging LLMs to calibrate their trust in retrieved content based on internal
+and external confidence. While promising, it remains unclear which types of misleading documents most effectively bypass these defenses. In this paper, we systematically study how
 adversarial contexts exploit LLM biases to undermine confidence reasoning. We identify six
 key biases—authority, length, linguistic confusion, confirmation, confidence, and instruction
 —and construct controlled adversarial datasets based on the TriviaQA dataset, evaluating
 their impact using Accuracy with False Context (Accf). Our experiments with GPT-4o mini under three distinct defense strategies—Direct Input Augmentation (DIA), Implicit
 Self-guided Confidence Reasoning (ISCR), and Explicit Self-guided Confidence Reasoning
 (ESCR)—reveal significant vulnerabilities, particularly toward authoritative, verbose, and
-multilingual content. We further explore whether an attacker LLM can automatically generate more effective misinformation by using feedback from a defender LLM. Surprisingly, despite iterative refinement based on explicit confidence reasoning feedback, attacker-generated
-documents fail to consistently increase in misleading effectiveness. This suggests a fundamental disconnect between model-generated justifications and actual internal reasoning.
+multilingual content. We further explore whether an attacker LLM can automatically generate more effective misinformation by using feedback from a defender LLM. Surprisingly, despite iterative refinement based on explicit confidence reasoning feedback, attacker-generated
+documents fail to consistently increase in misleading effectiveness. This suggests a fundamental disconnect between model-generated justifications and actual internal reasoning.
 Our findings expose critical weaknesses in current RAG defenses, highlighting the need for
 more faithful, interpretable, and bias-aware confidence estimation strategies. These insights
-have significant practical implications for deploying reliable RAG systems in sensitive, highstakes areas such as finance, law, and healthcare.</p>  
+have significant practical implications for deploying reliable RAG systems in sensitive, highstakes areas such as finance, law, and healthcare.</p>  
   [Read more](/assets/papers/RAG.pdf)
 
 - **Technical Report for Optimizing Small Language Models under Capacity Constraints**  
   <p style="text-align: justify;">*Abstract:* This study investigates optimization strategies for the Gemma-3-270M model
 across various tasks: factual question answering, multi-step reasoning, and instruction following. We train a router to predict task types and dispatch inputs
-to specialized expert models. For factual QA, we implement BM25-based retrieval augmentation. For reasoning, we apply knowledge distillation from a 1B parameter teacher model using both soft logit targets and chain-of-thought supervision to transfer reasoning capabilities. For instruction following, we perform supervised fine-tuning on diverse instruction datasets. Our integrated system achieves 20.72% exact match (relaxed) on TriviaQA (2× baseline), 26.63%
+to specialized expert models. For factual QA, we implement BM25-based retrieval augmentation. For reasoning, we apply knowledge distillation from a 1B parameter teacher model using both soft logit targets and chain-of-thought supervision to transfer reasoning capabilities. For instruction following, we perform supervised fine-tuning on diverse instruction datasets. Our integrated system achieves 20.72% exact match (relaxed) on TriviaQA (2× baseline), 26.63%
 accuracy on ARC-Challenge, and 39.23% loose instruction accuracy on IFEval,
 exceeding target performance across all benchmarks.</p>  
   [Read more](/assets/papers/LLM.pdf)
