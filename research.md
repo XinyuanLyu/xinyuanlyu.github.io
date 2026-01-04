@@ -7,11 +7,13 @@ permalink: /research/
 # Research & Projects
 
 ## Business Methodology and Economics
+<div class="pub-grid">
+
 - **Debiased Semi-Parametric Approach for Contextual Stochastic
 Optimization: Theory and Application to the Newsvendor**  
   <p style="text-align: justify;">*Abstract:* We study contextual stochastic optimization problems in which decisions are made based on auxiliary covariates and uncertain outcomes. The standard predict-then-optimize approach can suffer from substantial bias in finite samples due to first-order sensitivity to estimation errors in the predictive model, particularly when flexible machine learning methods are used. To address this issue, we propose a debiased semiparametric framework that constructs an orthogonalized risk function inspired by ideas from double and debiased machine learning. By incorporating an explicit correction term derived from the efficient influence function, the proposed objective satisfies Neyman orthogonality with respect to nuisance parameters, thereby preventing the transmission of first-order prediction bias into the optimization stage. We further show that cross-fitting plays a crucial role in mitigating stochastic errors arising from moment estimation. Under standard regularity conditions, the resulting decision rule achieves a fast excess-risk convergence rate, representing a quadratic improvement over naive plug-in methods. We illustrate the framework in the contextual newsvendor problem using a deep log-linear demand model, and numerical experiments demonstrate consistent performance gains over both plug-in and end-to-end baselines in finite samples.</p>  
   [Read more](/assets/papers/Inventory_Paper_Draft.pdf)
-  
+
 - **The Geometry of Econometric Models: A Proposal**  
   <p style="text-align: justify;">*Abstract:* The integration of Machine Learning into economics has generated distinct methodological lineages, ranging from semi-parametric causal inference to deep learning-based structural estimation. However, the field lacks a unified meta-theory to rigorously compare these approaches
 and analyze their out-of-distribution generalization properties. This proposal establishes a geometric framework for economic modeling, conceptualizing estimation strategies as contraction
@@ -24,7 +26,10 @@ principles through Economics-Informed Neural Networks (EINNs), which implement r
 set-valued identification.</p>  
   [Read more](/assets/papers/Compact_Writing_Sample.pdf)
 
+</div>
+
 ## Empirical Economics and Social Science 
+<div class="pub-grid">
 
 - **The Impact of Telecom Fraud Activity in Northern Myanmar on the China–Myanmar Border Region**  
   <p style="text-align: justify;">*Abstract:* This study examines the economic impact of telecom fraud activities in northern Myanmar on adjacent China-Myanmar border regions. Leveraging grid-level nighttime light
@@ -47,7 +52,11 @@ influence on regional economies</p>
   <p style="text-align: justify;">*Abstract:* When analyzing social science issues within the framework of interventionism, the problem of time effects inevitably arises. This paper focuses on the clarification of interventionism and the delineation of causal objects in the historical social studies, making time the central theme of the study. It indicates that a strictly defined intervention must necessarily and sufficiently control for time variable in order to control all potential confounding variables varying over time, leading to potential outcomes and causally possible worlds. Lastly, the paper critically analyzes the differences between treating time as a variable and object-in-time as history, the object itself, as well as the implications of these differences in interpretation. From this perspective, causal inference in historical social studies is further understood as the study of causally possible histories, emphasizing the rigor of interventions and the difference between internal and external validity. And therefore this kind of studies have their special meaning different from pure science, pure descriptive history, and just made-up fictions.</p>  
   [Read more](/assets/papers/Interventionism.pdf)
 
+</div>
+
 ## Computer Science Course Papers and Reports
+<div class="pub-grid">
+
 - **Probabilistic Point Process Prediction**  
   <p style="text-align: justify;">*Abstract:* Temporal Point Processes (TPPs) are powerful tools for modeling event sequences with irregular timestamps, crucial in domains such as finance, healthcare, and social networks. This project builds on the classical Recurrent Marked Temporal Point Process (RMTPP) model by introducing two probabilistic variants, RMTPP2 and RMTPP3, as well as a novel extension utilizing Generative Adversarial Networks (GAN). RMTPP2 and RMTPP3 enhance the modeling of event uncertainty by incorporating stochastic elements into the intensity function. The GAN-based model further improves predictive performance by learning and generating realistic event sequences, subsequently applying transfer learning for accurate event type and timing predictions. Experimental evaluations on real-world datasets demonstrate that these models outperform the baseline in temporal accuracy. This work bridges the gap between deterministic RNN-based TPP modeling and probabilistic generative paradigm, offering a promising direction for future advancements in event sequence prediction.</p>  
   [Read more](/assets/papers/PPP.pdf)
@@ -78,9 +87,13 @@ accuracy on ARC-Challenge, and 39.23% loose instruction accuracy on IFEval,
 exceeding target performance across all benchmarks.</p>  
   [Read more](/assets/papers/LLM.pdf)
 
+</div>
+
 ## Philosophy Essays
 
 ### Analytic philosophy & Logistics
+<div class="pub-grid">
+
 - **Why We Should Still Against Sex Robots**  
   <p style="text-align: justify;">*Abstract:* This essay critiques the ethical implications of sex robots, particularly addressing the arguments supporting their development and use. While proponents like Levy argue that sex robots are akin to advanced sex toys and can enhance social utility without harm, critics emphasize their symbolic reinforcement of patriarchal norms, objectification of women, and the perpetuation of unethical sexual practices. The article engages with the Symbolic-Consequences Argument, which posits that sex robots symbolize problematic sexual norms and lead to negative societal outcomes. Responding to critiques like Danaher's, which question the immutability of these symbols and their consequences, the essay modifies the argument by rejecting a consequentialist framework. It asserts that, regardless of outcomes, commercialized sexual exchanges—including those involving robots—devalue basic human rights and dignity. The essay concludes that the development of sex robots remains ethically problematic unless robots achieve genuine autonomy and rights, fostering true human-machine relationships based on mutual respect.</p>  
   [Read more](/assets/papers/Sex%20Robots.pdf)
@@ -97,7 +110,10 @@ exceeding target performance across all benchmarks.</p>
   <p style="text-align: justify;">*Abstract:* This paper critically reflects on Hilary Putnam's semantic externalism, as presented in his "Twin Earth" thought experiment, through the lens of Jesper Kallestrup's From Language to Thought. Putnam challenges semantic internalism by demonstrating that the meaning and reference of natural kind terms like "water" depend on external environmental factors rather than the speaker's internal mental states. This reflection revisits internalist responses to Putnam's argument, emphasizing the role of indexicality and socio-linguistic practices in shaping the meaning of natural kind terms. By extending the analysis, this paper introduces a generalizable framework for "C-class words," which depend on externally recognized properties not accessible through individual perception. The argument is further contextualized through examples like color terms in colorblind societies and medical terms defined by social norms. The conclusion suggests that semantic externalism highlights not only the relationship between language and thought but also broader metaphysical connections between mind, language, and reality, proposing implications for ontology and epistemology.</p>  
   [Read more](/assets/papers/%E8%AF%AD%E8%A8%80%E5%88%B0%E6%80%9D%E6%83%B3.pdf)
 
+</div>
+
 ### Philosophy of Religion & Continental Philosophy
+<div class="pub-grid">
 
 - **The Possibility and Necessity of a Nietzschean Religion Philosophy - A Comparative Study of Shestov and Nietzsche's Philosophies**  
   <p style="text-align: justify;">*Abstract:* This paper aims to provide a comparative analysis of the philosophies of Lev
@@ -119,8 +135,10 @@ opposing and avoiding nihilism, it may not be necessary other than Nietzsche’s
 philosophy in offering a definitive solution to overcoming nihilism.</p>  
   [Read more](/assets/papers/Nietzsche.pdf)
 
+</div>
 
 ## Art & Literature Essays
+<div class="pub-grid">
 
 - **Tracing the Origins of Perspective: Insights from the Centaur Mosaic**  
   <p style="text-align: justify;">*Abstract:* This paper investigates the Centaur Mosaic from Hadrian’s Villa as a key example of early perspective techniques in Greco-Roman art. It analyzes the mosaic's use of foreshortening, scale variation, and shadowing to create depth and realism, comparing it to Renaissance developments. The study explores the historical evolution of perspective, emphasizing its role in advancing spatial representation in ancient art and architecture. It argues that the Centaur Mosaic bridges early artistic intuition and later scientific precision in depicting three-dimensional space.</p>  
@@ -137,3 +155,70 @@ philosophy in offering a definitive solution to overcoming nihilism.</p>
 - **Industrialization’s Agony: Hwang Sok-yong’s Short Stories on South Korea’s Transformation**  
   <p style="text-align: justify;">*Abstract:* Hwang Sok-yong’s early short stories portray the harrowing consequences of South Korea's rapid industrialization during the 1960s and 1970s. This paper analyzes key works to explore themes of urbanization, alienation, and loss of identity among the working class. It focuses on Hwang’s empathetic depiction of marginalized lives and his critique of modernization’s socio-economic inequalities. The study underscores Hwang’s literary commitment to preserving humanity and dignity amid the relentless forces of industrial and capitalist change.</p>  
   [Read more](/assets/papers/%E5%90%95%E6%AC%A3%E8%BF%9C%20%E9%BB%84%E6%99%B3%E6%9A%8E%E4%B8%AD%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%E4%B8%AD%E7%9A%84%E9%9F%A9%E5%9B%BD%E4%BA%A7%E4%B8%9A%E5%8C%96%E4%B9%8B%E7%97%9B%20.pdf)
+
+</div>
+
+<style>
+/* === Research page card layout (no content change) === */
+.pub-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(360px, 1fr));
+  gap:16px;
+  margin:14px 0 10px;
+}
+
+.pub-grid > ul{
+  list-style:none;
+  padding:0;
+  margin:0;
+  display:contents;
+}
+
+.pub-grid > ul > li{
+  border:1px solid rgba(0,0,0,.10);
+  border-radius:18px;
+  padding:16px 16px 14px;
+  background:rgba(255,255,255,.88);
+  box-shadow:0 10px 28px rgba(0,0,0,.06);
+  transition:transform .15s ease, box-shadow .15s ease;
+}
+
+.pub-grid > ul > li:hover{
+  transform:translateY(-2px);
+  box-shadow:0 14px 34px rgba(0,0,0,.08);
+}
+
+.pub-grid > ul > li > strong{
+  display:block;
+  font-size:1.05rem;
+  line-height:1.35;
+  letter-spacing:-0.01em;
+  margin-bottom:8px;
+}
+
+.pub-grid p{
+  margin:0 0 10px;
+  line-height:1.65;
+}
+
+.pub-grid a{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:8px 12px;
+  border-radius:12px;
+  border:1px solid rgba(0,0,0,.12);
+  text-decoration:none;
+  font-weight:600;
+  font-size:.9rem;
+  background:rgba(0,0,0,.02);
+}
+
+.pub-grid a:hover{
+  filter:brightness(.98);
+}
+
+.pub-grid br{
+  display:none;
+}
+</style>
